@@ -9,7 +9,6 @@ I love to code!!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://kartavya-joshi.vercel.app/)
 * ✉️  You can contact me at [joshikartavya78@gmail.com](mailto:joshikartavya78@gmail.com)
-* 🚀  I'm currently working on [Retro theme portfolio website](http://github.com/JoshiKartavya/Retro-Theme-Portfolio)
 * 🧠  I'm learning React JS, Node JS, MongoDB, ThreeJS...
 * 🤝  I'm open to collaborating on Web development projects
 * ⚡  I love to listen songs while drinking coffee
