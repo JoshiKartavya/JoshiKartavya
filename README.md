@@ -7,7 +7,6 @@ Frontend Web Developer
 I love to code!!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://kartavya-joshi.vercel.app/)
 * ✉️  You can contact me at [joshikartavya78@gmail.com](mailto:joshikartavya78@gmail.com)
 * 🧠  I'm learning React JS, Node JS, MongoDB, ThreeJS...
 * 🤝  I'm open to collaborating on Web development projects
