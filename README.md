@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bfa7fb51-67d6-43c6-a0ec-c899e0de8303" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KARTAVYA JOSHI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KARTAVYA JOSHI
 ======================================================================================================================================
 
 Frontend Web Developer
