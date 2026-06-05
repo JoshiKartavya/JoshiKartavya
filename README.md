@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KARTAVYA JOSHI
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bfa7fb51-67d6-43c6-a0ec-c899e0de8303" />Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KARTAVYA JOSHI
 ======================================================================================================================================
 
 Frontend Web Developer
@@ -7,7 +7,7 @@ Frontend Web Developer
 I love to code!!
 
 * 🌍  I'm based in India
-* ✉️  Visit my portfolio website [Portfolio](https://www.kartavyajoshi.com/)
+* ✉️  Visit my portfolio website [Portfolio](https://kartavya-joshi.vercel.app/)
 * ✉️  You can contact me at [joshikartavya78@gmail.com](mailto:joshikartavya78@gmail.com)
 * 🧠  I'm learning React JS, Node JS, MongoDB, ThreeJS...
 * 🤝  I'm open to collaborating on Web development projects
